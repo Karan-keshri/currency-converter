@@ -5,6 +5,12 @@ It allows users to convert one currency to another using real-time exchange rate
 
 ---
 
+## 🚀 Live Demo
+
+👉 [Click here to view the live project](https://currency-convertor-karan.web.app/)
+
+---
+
 ## 🚀 Features
 
 - Convert between 150+ world currencies
